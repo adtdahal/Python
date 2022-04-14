@@ -17,5 +17,6 @@ The goal of this project as an analyst is to perform an initial data and explora
 ● Are there differences in ordering habits based on the following factors: loyalty status, region, age, family status, income?  
 
 ## Data Sets
+● [Instacart Data](https://github.com/adtdahal/Python-InstacartProject/tree/main/Original%20Data)  
 ●  [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)  
 ● "The Instacart Shopping Dataset 2017"  Accessed from: (https://www.instacart.com/datasets/grocery-shopping-2017)
