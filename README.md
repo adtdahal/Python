@@ -20,3 +20,6 @@ The goal of this project as an analyst is to perform an initial data and explora
 ● [Instacart Data](https://github.com/adtdahal/Python-InstacartProject/tree/main/Original%20Data)  
 ●  [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)  
 ● "The Instacart Shopping Dataset 2017"  Accessed from: (https://www.instacart.com/datasets/grocery-shopping-2017)
+
+## Deliverables
+[Final Report:](https://github.com/adtdahal/Python-InstacartProject/blob/main/Instacart%20Grocery%20Basket%20Analysis.xlsx) includes analysis findings, visualizations, and recommendations for Instacart stakeholders
